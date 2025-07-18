@@ -1,0 +1,12 @@
+{
+  "name": "milmast-scrum-workspace",
+  "version": "1.0.0",
+  "description": "MILMAST Scrum App Workspace",
+  "scripts": {
+    "start": "cd MobileApp && npm start",
+    "android": "cd MobileApp && npm run android",
+    "ios": "cd MobileApp && npm run ios",
+    "web": "cd MobileApp && npm run web"
+  },
+  "private": true
+}
